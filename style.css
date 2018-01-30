@@ -55,6 +55,7 @@ h1 {
 
 .selected {
     background-color: darkslateblue;
+    color: white;
 }
 
 button {
